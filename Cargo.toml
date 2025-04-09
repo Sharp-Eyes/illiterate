@@ -6,6 +6,7 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.97"
 bpe-thing = { git = "https://github.com/sharp-eyes/bpe-thing", version = "0.1.0" }
+cmd-thing = { git = "https://github.com/sharp-eyes/cmd-thing", version = "0.1.0" }
 dotenvy = "0.15.7"
 log = "0.4.27"
 rand = "0.9.0"
